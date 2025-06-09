@@ -18,21 +18,42 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Unsere Schule
+      pageRef: /unsere_schule
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Blog
+      pageRef: /blog
       weight: 2
-    - name: Contact ↗
-      mailto: "poststelle@ghse.de"
+    - name: Schularten
+      pageRef: /schularten
       weight: 3
-    - name: Search
+    - name: Schüler
+      pageRef: /schueler
       weight: 4
+    - name: UNESCO
+      pageRef: /unesco
+      weight: 5
+    - name: Downloads
+      pageRef: /downloads
+      weight: 6
+    - name: Anmelden
+      pageRef: /anmelden
+      weight: 7
+    - name: MINT
+      pageRef: /mint
+      weight: 8
+    - name: SHOP
+      pageRef: /shop
+      weight: 9
+    - name: Contact ↗
+      url: "mailto: poststelle@ghse.de"
+      weight: 10
+    - name: Search
+      weight: 11
       params:
         type: search
     - name: Instagram
-      weight: 5
+      weight: 12
       url: "https://www.instagram.com/ghse_emmendingen"
       params:
         icon: instagram
@@ -51,7 +72,7 @@ params:
       dark: logo-dark.svg
       link: /
       width: 150
-      height: 120
+      height: 80
 
   page:
     # full (100%), wide (90rem), normal (1280px)

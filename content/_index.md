@@ -42,6 +42,38 @@ Für einen schulweiten Terminkalender ist unsere Schule zu groß. Wir haben uns 
 
 - [BV]("https://nx2219.your-storageshare.de/apps/calendar/p/N3QETfyYY8N4pX4B">https://nx2219.your-storageshare.de/apps/calendar/p/N3QETfyYY8N4pX4B)
 
+## Die GHSE bei Instagram​
+
+Um bei einer so großen Schule den Interessen entsprechend zu
+informieren, gibt es mehrere accounts der Schule und von Schülern:
+
+- [ghse_emmendingen](https://www.instagram.com/ghse_emmendingen/) Der Account der Schule
+
+- [ghse_tg](https://www.instagram.com/ghse_tg/) Der Account des Technischen Gymnasiums
+
+- [ghse_sg](https://www.instagram.com/ghse_sg/) Der Account des Sozialwissenschaftlichen
+Gymnasiums
+
+- [ghse_kfz](https://www.instagram.com/ghse_kfz/) Der Account der KFZ-Abteilung
+
+- [ghse_holz](https://www.instagram.com/ghse_holz/) Der Account der Holzabteilung
+
+- [ghse_pflegeausbildung](https://www.instagram.com/ghse_pflegeausbildung/) Der Accountder (Alten)-Pflegeabteilung
+
+- [ghse_metall](https://www.instagram.com/ghse_metall/) Der Account der Metallabteilung
+
+- [ghse_smv](https://www.instagram.com/ghse_smv/) Der Account der SMV
+
+## Schularten entdecken
+
+{{< cards >}}
+
+  {{< card link="/" title="Technisches Gymnasium" image="/tg.png" subtitle="" >}}
+    {{< card link="/" title="Zweijährige Berufsfachschule" image="/2bf.jpeg" subtitle="" >}}
+  {{< card link="/" title="VABKF" image="/vabkf.png" subtitle="" >}}
+
+{{< /cards >}}
+
 ## Partner
 
 ![Partner](partner.png)
