@@ -20,7 +20,7 @@ markup:
 menu:
   main:
     - name: Unsere Schule
-      pageRef: /unsere_schule
+      pageRef: docs/unsere_schule
       weight: 1
     - name: Blog
       pageRef: /blog
@@ -46,10 +46,10 @@ menu:
     - name: SHOP
       pageRef: /shop
       weight: 9
-    - name: Contact ↗
+    - name: Kontakt ↗
       url: "mailto: poststelle@ghse.de"
       weight: 10
-    - name: Search
+    - name: Suche
       weight: 11
       params:
         type: search
@@ -74,6 +74,8 @@ params:
       link: /hugo_ghse
       width: 150
       height: 80
+  editURL:
+    enable: false
 
   page:
     # full (100%), wide (90rem), normal (1280px)
