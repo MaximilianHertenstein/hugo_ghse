@@ -51,7 +51,8 @@ params:
       dark: logo-dark.svg
       link: /
       width: 300
-      height: 300
+      height: 100
+
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: full  
