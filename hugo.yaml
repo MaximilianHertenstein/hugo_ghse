@@ -50,7 +50,7 @@ params:
       path: logo.svg
       dark: logo-dark.svg
       link: /
-      width: 300
+      width: 150
       height: 100
 
   page:
