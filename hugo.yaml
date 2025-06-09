@@ -70,7 +70,7 @@ params:
     logo:
       path: logo.svg
       dark: logo-dark.svg
-      link: /
+      link: /hugo_ghse
       width: 150
       height: 80
 
