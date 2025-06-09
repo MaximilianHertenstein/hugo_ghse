@@ -1,6 +1,7 @@
 # Hugo configuration file
 title: Gewerbliche und Hauswirtschaftlich-Sozialpflegerische Schulen Emmendingen
 
+defaultContentLanguage: de
 # import hextra as module
 module:
   imports:
