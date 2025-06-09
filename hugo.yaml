@@ -47,8 +47,8 @@ params:
     displayTitle: true
     displayLogo: true
   logo:
-    path: images/GHSE-Logo.svg
-    dark: images/GHSE-Logo.svg
+    path: logo.svg
+    dark: logo-dark.svg
     link: /
     width: 40
     height: 20
@@ -58,7 +58,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: true
